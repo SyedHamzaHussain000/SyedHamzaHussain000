@@ -13,7 +13,7 @@
 
 - 📚 I'm currently studying **Computer Science**
 
-- 📱 My All Live Projects [Buynbook, EzTranz, HeelSelfie, Fitnessbygracie](https://linktr.ee/SyedHmza)
+- 📱 My All Live Projects https://linktr.ee/SyedHmza
 
 - 👨‍💻 All of my projects are available at [https://hamza-portfolio-phi.vercel.app/](https://hamza-portfolio-phi.vercel.app/)
 
