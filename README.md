@@ -15,7 +15,7 @@
 
 - 📱 My All Live Projects https://linktr.ee/SyedHmza
 
-- 👨‍💻 All of my projects are available at [https://hamza-portfolio-phi.vercel.app/](https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/]([https://hamza-portfolio-phi.vercel.app/](https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/))
+- 👨‍💻 All of my projects are available at [(https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/)]
 
 - 💬 Ask me about **React Native**
 
