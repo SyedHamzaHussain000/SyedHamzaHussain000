@@ -15,13 +15,13 @@
 
 - 📱 My All Live Projects https://linktr.ee/SyedHmza
 
-- 👨‍💻 All of my projects are available at [(https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/)]
+- 👨‍💻 All of my projects are available at https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/
 
 - 💬 Ask me about **React Native, Nodejs, Electronjs, Reactjs**
 
 - 📫 How to reach me **syed06411@gmail.com**
 
-- 📄 Know about my experiences [4 years of experience](4 years of experience)
+- 📄 Know about my experiences 4 years of experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
