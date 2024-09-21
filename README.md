@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://hamza-git-main-hamzas-projects-dfe6d61b.vercel.app/)]
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native, Nodejs, Electronjs, Reactjs**
 
 - 📫 How to reach me **syed06411@gmail.com**
 
