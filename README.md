@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Buynbook](https://play.google.com/store/apps/details?id=com.buynbook)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Ai**
 
 - 📚 I'm currently studying **Computer Science**
 
