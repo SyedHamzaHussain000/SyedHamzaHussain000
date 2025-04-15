@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhamzahussain000&label=Profile%20views&color=0e75b6&style=flat" alt="syedhamzahussain000" /> </p>
 
 
-- 🔭 I’m currently working on [Buynbook](https://play.google.com/store/apps/details?id=com.buynbook)
+- 🔭 I’m currently working on Native Modules 
 
 - 🌱 I’m currently learning **Ai**
 
