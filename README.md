@@ -1,4 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hamza</h1>
+
+<div align="center">
+  <img src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" width="250px" alt="Developer Animation">
+</div>
+
 <h3 align="center">A passionate full stack React Native Engineer (MERN)</h3>
 
 
